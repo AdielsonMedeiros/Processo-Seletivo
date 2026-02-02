@@ -1,1 +1,3 @@
+com\exemplo\vendas\model\Venda.class
+com\exemplo\vendas\repository\VendaRepository.class
 com\exemplo\vendas\VendasApplication.class
